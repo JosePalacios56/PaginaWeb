@@ -1,10 +1,10 @@
-## Pagina Perosnal José Palacios
+## Página Perosnal José Palacios
 
 
 
-Esta es una pagina personal como ejemplo.
+Esta es una página personal como ejemplo.
 
-Haciendo esto me gano un puntito en la asignatura, por eso estoy por aqui.
+Haciendo esto me gano un puntito en la asignatura, por eso estoy por aquí.
 
 ```markdown
 Ya que estás por aqui te voy a contar lo que me pasa en mi clase. 
@@ -17,4 +17,4 @@ haya hecho ya que no me da tiempo ha hacer el push.
 
 
 
-Ire dejando mas desgracias de mi vida por aqui.
+Ire dejando más desgracias de mi vida por aquí.
