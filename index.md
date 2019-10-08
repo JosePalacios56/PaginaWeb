@@ -1,17 +1,16 @@
-## Welcome to GitHub Pages
+## Pagina Perosnal José Palacios
 
-You can use the [editor on GitHub](https://github.com/JosePalacios56/PaginaWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Esta es una pagina personal como ejemplo 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Haciendo esto me gano un puntito en la asignatura, por eso estoy por aqui.
 
 ```markdown
 Syntax highlighted code block
 
-# Pagina Personal José
+
 
 
 - Bulleted
