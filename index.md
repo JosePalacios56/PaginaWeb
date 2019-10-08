@@ -13,18 +13,6 @@ cuando empiezo a utilizar el IntelliJ IDEA mi maravilloso ordenador
 le da por sacarme un pantallazo azul haciendome perder todo lo que
 haya hecho ya que no me da tiempo ha hacer el push.
 
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
